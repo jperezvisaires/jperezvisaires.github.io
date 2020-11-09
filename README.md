@@ -1,2 +1,2 @@
 # jperezvisaires.github.io
-Personal web page made with Github Pages
+A personal web page made with GitHub Pages
